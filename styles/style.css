@@ -1,0 +1,178 @@
+.div1{
+    background-image: url(https://mobirise.com/extensions/studiom4/creativestudio/assets/images/office-3.jpg);
+    
+    flex: 1 100%;
+    text-decoration: none;
+    text-anchor: middle;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 1340px;
+    height: 600px;
+}
+
+.header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color: white;
+    padding-top: 270px;
+    text-align: center;
+    text-decoration: double;
+    size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: 700;
+}
+.h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    padding-top: -20px;
+    line-height: 1.4;
+    color: white;
+    text-align: center;
+    font-style: normal;
+}
+
+.button{
+    text-transform: initial;
+    text-decoration-style: solid;
+    background-color: #b539cf;
+    border-color: #b539cf;
+    color: #ffffff;
+    align-items: center;
+    display: table-row;
+    width: 100px;
+    line-height: 1.5;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 670px;
+box-sizing: unset;
+font-family: 'Roboto', sans-serif;  
+}
+.h2a{
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.p1{
+    text-align: center;
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.div11 , .div12 , .div13{
+padding-left: 30px;
+    height: 390px;
+    width: 390px;
+    
+}
+
+.ol{
+    display: flex;
+    height: 500px;
+    width: 300px;
+    flex: 1 1 1  33.3%;
+  
+    text-anchor: middle;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.class3{
+    height: 600px;
+    width: 1340px;
+    background-color: black;
+    display: flex;
+
+    
+
+}
+.class4{
+    padding-top: 50px;
+    padding-left: 30px;
+    color: white;
+    
+}
+.media{
+    color: black;
+}
+.form1{
+    padding-top: 60px;
+    padding-right: 30px;
+    outline: none;
+    box-shadow: none;
+    border-radius: 0px;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical ;
+    background-color: black;
+  }
+  
+  
+  input[type=send] {
+    background-color: #b539cf !important;
+    border-color: #b539cf !important;
+    color: #ffffff !important;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  
+.container{
+    padding-left: 300px;
+    width: 400px;
+}
+  
+.ul1{
+    padding-block-end: 30px;
+    padding: 30px;
+    padding-bottom: 30px;
+    background-color: black;
+    padding-left: 30px;
+    border-radius: initial;
+    border: #b539cf;
+    display: flex;
+}
+
+.p11{
+    color: #b539cf;
+}
+.button{
+    background-color: #b539cf !important;
+    border-color: #b539cf !important;
+    color: #ffffff !important;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    font-style: initial;
+    font-weight: bold;
+    
+    text-align: center;
+    
+  }
+  .li , .lii , .liii , .liiii{
+      border-style: double;
+      border-color: #b539cf;
+      margin: 10px;
+  }
+  .div11{
+      
+  }
